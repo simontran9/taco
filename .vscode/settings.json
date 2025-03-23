@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "array_stack.h": "c",
+        "type_traits": "c",
+        "typeinfo": "c",
+        "stdbool.h": "c"
+    }
+}

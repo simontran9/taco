@@ -1,0 +1,9 @@
+PointerAlignment: Right
+ColumnLimit: 80
+IndentWidth: 4
+SpaceAfterCStyleCast: true
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortBlocksOnASingleLine: true
+AllowShortFunctionsOnASingleLine: All
+MaxEmptyLinesToKeep: 1
