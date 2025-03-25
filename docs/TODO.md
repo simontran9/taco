@@ -1,6 +1,7 @@
-
-- write docs
-- bench step
+- https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h, https://github.com/attractivechaos/klib?tab=readme-ov-file
+- benchmarking
+- clang-tidy
+- valgrind
 - hash table
     - https://go.dev/blog/swisstable
     - Rust hashing framework (see matthieum's comment)

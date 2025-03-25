@@ -28,7 +28,23 @@
 
 `ARRAYSTACK_POP(name, stack, out_element)`:
 
-### `SinglyLinkedStack`
+### `LinkedStack`
+
+`define GENERATE_LINKEDSTACK(<name>, <type>)`: define a name and the type you want your ArrayStack to be.
+
+`LINKEDSTACK_CREATE(name)`:
+
+`LINKEDSTACK_DESTROY(name, stack)`:
+
+`LINKEDSTACK_LEN(name, stack)`:
+
+`LINKEDSTACK_IS_EMPTY(name, stack)`:
+
+`LINKEDSTACK_TOP(name, stack, out_element)`:
+
+`LINKEDSTACK_PUSH(name, stack, element)`:
+
+`LINKEDSTACK_POP(name, stack, out_element)`:
 
 ## Queue
 
@@ -74,9 +90,7 @@
 
 ### `TrieSet`
 
-## Disjoint Set
-
-### `ForestDisjointSet`
+## Disjoint Set (`ForestDisjointSet`)
 
 ## Graph
 

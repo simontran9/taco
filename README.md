@@ -32,7 +32,6 @@ By rule 5 of [*Rob Pike's 5 Rules of Programming*](https://users.ece.utexas.edu/
 
 - [C Compiler (C23 or later)](https://gcc.gnu.org/)
 - [GNU Make](https://www.gnu.org/software/make/)
-- [musl libc](https://musl.libc.org/)
 - [jemalloc](https://jemalloc.net/)
 
 #### Dev dependencies
