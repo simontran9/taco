@@ -1,0 +1,5 @@
+
+1. compile check
+2. static analysis
+3. unit testing + memory testing + asan/ubsan
+5. benchmarking
