@@ -1,9 +1,11 @@
+# taco
+
+A C header only generics container library
+
 <div align="center">
     <img src="docs/logo.png" width="150px">
-    <h1>taco</h1>
 </div>
 
-C header-only generic containers library
 
 ## Motivation
 
@@ -45,8 +47,5 @@ make
 ```
 
 ## Usage
-
-```c
-```
 
 Head over to `docs/api.md` to learn more about available containers and its methods.
